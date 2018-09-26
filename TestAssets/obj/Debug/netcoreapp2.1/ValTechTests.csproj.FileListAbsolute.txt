@@ -1,0 +1,15 @@
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\ValTechTests.deps.json
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\ValTechTests.runtimeconfig.json
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\ValTechTests.runtimeconfig.dev.json
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\ValTechTests.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\obj\Debug\netcoreapp2.1\ValTechTests.csprojAssemblyReference.cache
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\obj\Debug\netcoreapp2.1\ValTechTests.csproj.CoreCompileInputs.cache
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\obj\Debug\netcoreapp2.1\ValTechTests.AssemblyInfoInputs.cache
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\obj\Debug\netcoreapp2.1\ValTechTests.AssemblyInfo.cs
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\janie Sharp\Downloads\Valtech\Valtech\TestAssets\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
